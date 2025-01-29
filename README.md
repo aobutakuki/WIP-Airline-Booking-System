@@ -10,3 +10,6 @@ The program will display a seatmap, turning all booked seats red. Then it will a
 
 
 After reservation, the seat is automatically updated
+
+
+Note: "file already exists" is a debug output that can be disabled on code
